@@ -13,7 +13,3 @@ Also Install [Open CV](https://docs.opencv.org/trunk/da/df6/tutorial_py_table_of
 
 Run
 ` python Recognize_Gesture.py `
-
-## Demo
-
-![ Demo ]( ./Demo.gif )
